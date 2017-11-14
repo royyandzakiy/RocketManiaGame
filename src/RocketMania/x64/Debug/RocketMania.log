@@ -1,0 +1,24 @@
+﻿  Source.cpp
+g:\project coding\opengl_project\rocketmania\rocketmania\source.cpp(46): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\project coding\opengl_project\rocketmania\rocketmania\source.cpp(242): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+g:\project coding\opengl_project\rocketmania\rocketmania\source.cpp(243): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+g:\project coding\opengl_project\rocketmania\rocketmania\source.cpp(282): warning C4101: 'buffer': unreferenced local variable
+g:\project coding\opengl_project\rocketmania\rocketmania\source.cpp(387): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\project coding\opengl_project\rocketmania\rocketmania\source.cpp(398): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  MP3.cpp
+  Generating Code...
+Source.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowPosition referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutInitWindowSize referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutInitDisplayMode referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutMainLoop referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutPostRedisplay referenced in function "void __cdecl timer(int)" (?timer@@YAXH@Z)
+Source.obj : error LNK2019: unresolved external symbol __imp_glutSwapBuffers referenced in function "void __cdecl display(void)" (?display@@YAXXZ)
+Source.obj : error LNK2019: unresolved external symbol __imp_glutTimerFunc referenced in function "void __cdecl timer(int)" (?timer@@YAXH@Z)
+Source.obj : error LNK2019: unresolved external symbol __imp_glutSpecialFunc referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutReshapeFunc referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp_glutDisplayFunc referenced in function main
+Source.obj : error LNK2019: unresolved external symbol __imp___glutInitWithExit referenced in function glutInit_ATEXIT_HACK
+Source.obj : error LNK2019: unresolved external symbol __imp___glutCreateWindowWithExit referenced in function glutCreateWindow_ATEXIT_HACK
+G:\Project Coding\OpenGL\Glew and Glut\freeglut\lib\freeglut.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+G:\Project Coding\OpenGL\Glew and Glut\glew-1.11.0\lib\glew32.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+G:\Project Coding\OpenGL_Project\RocketMania\x64\Debug\RocketMania.exe : fatal error LNK1120: 12 unresolved externals

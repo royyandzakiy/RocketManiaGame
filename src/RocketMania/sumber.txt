@@ -1,0 +1,6 @@
+CODE:
+- https://www.ntu.edu.sg/home/ehchua/programming/opengl/CG_BasicsTheory.html#zz-3.3
+- https://nccastaff.bournemouth.ac.uk/jmacey/RobTheBloke/www/opengl_programming.html
+
+BGM:
+- http://soundimage.org/sci-fi/

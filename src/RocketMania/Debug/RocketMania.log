@@ -1,0 +1,12 @@
+﻿  Source.cpp
+g:\project coding\opengl_project\rocketmania\rocketmania\source.cpp(46): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+g:\project coding\opengl_project\rocketmania\rocketmania\source.cpp(242): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+g:\project coding\opengl_project\rocketmania\rocketmania\source.cpp(243): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+g:\project coding\opengl_project\rocketmania\rocketmania\source.cpp(282): warning C4101: 'buffer': unreferenced local variable
+g:\project coding\opengl_project\rocketmania\rocketmania\source.cpp(306): warning C4018: '<': signed/unsigned mismatch
+g:\project coding\opengl_project\rocketmania\rocketmania\source.cpp(387): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+g:\project coding\opengl_project\rocketmania\rocketmania\source.cpp(398): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  MP3.cpp
+  Generating Code...
+  RocketMania.vcxproj -> G:\Project Coding\OpenGL_Project\RocketMania\Debug\RocketMania.exe
+  RocketMania.vcxproj -> G:\Project Coding\OpenGL_Project\RocketMania\Debug\RocketMania.pdb (Partial PDB)

@@ -1,0 +1,12 @@
+displayCreate():
+- make rocket/cone
+- make button
+
+- reset rotation
+- rotate rocket
+- change color rocket
+- rocket lighting
+
+displayMenu():
+- make button (to change display)
+- make BG

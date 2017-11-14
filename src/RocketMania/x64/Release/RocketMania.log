@@ -1,0 +1,21 @@
+﻿  MP3.cpp
+  Source.cpp
+Source.cpp(46): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Source.cpp(206): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+Source.cpp(207): warning C4305: '*=': truncation from 'double' to 'GLfloat'
+Source.cpp(246): warning C4101: 'buffer': unreferenced local variable
+Source.cpp(345): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Source.cpp(351): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+Source.obj : error LNK2001: unresolved external symbol __imp_glutReshapeFunc
+Source.obj : error LNK2001: unresolved external symbol __imp___glutCreateWindowWithExit
+Source.obj : error LNK2001: unresolved external symbol __imp___glutInitWithExit
+Source.obj : error LNK2001: unresolved external symbol __imp_glutPostRedisplay
+Source.obj : error LNK2001: unresolved external symbol __imp_glutInitDisplayMode
+Source.obj : error LNK2001: unresolved external symbol __imp_glutSpecialFunc
+Source.obj : error LNK2001: unresolved external symbol __imp_glutTimerFunc
+Source.obj : error LNK2001: unresolved external symbol __imp_glutDisplayFunc
+Source.obj : error LNK2001: unresolved external symbol __imp_glutMainLoop
+Source.obj : error LNK2001: unresolved external symbol __imp_glutInitWindowPosition
+Source.obj : error LNK2001: unresolved external symbol __imp_glutInitWindowSize
+Source.obj : error LNK2001: unresolved external symbol __imp_glutSwapBuffers
+G:\Project Coding\OpenGL_Project\RocketMania\x64\Release\RocketMania.exe : fatal error LNK1120: 12 unresolved externals
