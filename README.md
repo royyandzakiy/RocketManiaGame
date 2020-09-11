@@ -7,4 +7,4 @@ Made with OpenGL on C++.
 ![Title](doc/title.png)
 ![Gameplay](doc/gameplay.png)
 
-Learn how the mechanisms work by checking the [documentation here]("doc/Rocket Mania - Documentation.pdf" "RadioMania Documentation").
+Learn how the mechanisms work by checking the [documentation here](doc/RocketMania_Documentation.pdf).
